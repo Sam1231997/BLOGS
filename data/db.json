@@ -1,0 +1,20 @@
+
+
+{
+    "blogs":[
+{
+    "title": "My first blog",
+    "body": "lorem ipsum.....",
+    "author": "Written by Mark Sunday",
+    "id": 1
+},
+{
+    "title": "Nnamdi Arrest ",
+    "body": "lorem ipsum.....",
+    "author": "written by Sunday Mathew",
+    "id": 2
+}
+
+    ]
+
+}
